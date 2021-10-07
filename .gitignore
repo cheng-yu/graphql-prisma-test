@@ -1,0 +1,6 @@
+node_modules
+# Keep environment variables out of version control
+.env
+prisma/dev.db
+prisma/migrations/migration_lock.toml
+prisma/migrations/20211007111344_init/migration.sql
