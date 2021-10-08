@@ -4,3 +4,5 @@ node_modules
 prisma/dev.db
 prisma/migrations/migration_lock.toml
 prisma/migrations/20211007111344_init/migration.sql
+prisma/dev.db-journal
+prisma/migrations/20211008061518_add_user_model/migration.sql
